@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ahmad! 👋  
+🎓 CS Student | 📱 Flutter & Firebase Learner | 🇵🇰 From Sahiwal, Pakistan
 
-<!--
-**theAhmaddev/theAhmaddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm currently:
+- Learning Flutter to build beautiful and functional mobile apps
+- Exploring Firebase for backend integration
+- Building small projects to sharpen my development skills
 
-Here are some ideas to get you started:
+🧰 Tech Stack:
+- Flutter / Dart
+- Firebase
+- C++ / Java (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Goals:
+- Complete 10 meaningful projects in 2025
+- Build a Resume Portfolio App
+- Get an internship or remote job in app development
+
+📚 Latest Projects:
+- [BMI Calculator App](#)
+- [To-Do List App](#)
+
+📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/ahmad-flutterdev)
+- [WhatsApp Business](https://wa.me/923106270443)
+
+---
+*“Code. Learn. Build. Repeat.”* 💻
